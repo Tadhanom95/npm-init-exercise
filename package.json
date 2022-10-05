@@ -1,0 +1,23 @@
+{
+  "name": "npm-init-exercise",
+  "version": "2.0.0",
+  "description": "npm exercise",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Tadhanom95/npm-init-exercise.git"
+  },
+  "keywords": [
+    "npm",
+    "init"
+  ],
+  "author": "tadesse",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Tadhanom95/npm-init-exercise/issues"
+  },
+  "homepage": "https://github.com/Tadhanom95/npm-init-exercise#readme"
+}
